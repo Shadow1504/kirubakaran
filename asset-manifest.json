@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kirubakaran/static/css/main.c5cc1dc2.css",
+    "main.js": "/kirubakaran/static/js/main.3358f4d6.js",
+    "static/media/slick.svg": "/kirubakaran/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/kirubakaran/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/kirubakaran/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/kirubakaran/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/kirubakaran/index.html",
+    "main.c5cc1dc2.css.map": "/kirubakaran/static/css/main.c5cc1dc2.css.map",
+    "main.3358f4d6.js.map": "/kirubakaran/static/js/main.3358f4d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5cc1dc2.css",
+    "static/js/main.3358f4d6.js"
+  ]
+}
